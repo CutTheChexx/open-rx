@@ -1,9 +1,8 @@
 # Open RX v2.0.0 — Active Context (Free Tier)
 
-**"Are you ready?"**
+**"Oh, you didn't know? ...YOUR APP IS ABOUT TO GET WRECKED."**
 
-Open RX (OTC) is loaded. You have access to 7 skills of elite knowledge distilled from
-the best open-source repositories, production patterns, and battle-tested strategies.
+**ARE YOU READY?** Open RX is loaded. 7 skills. No fluff. No slop. Just production heat.
 
 **v2.0 Free Tier — 7 skills, 4 reference files. By CutTheChexx.**
 
