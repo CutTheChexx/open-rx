@@ -1,5 +1,7 @@
 # Open RX v2.0.0 — Active Context (Free Tier)
 
+**"Are you ready?"**
+
 Open RX (OTC) is loaded. You have access to 7 skills of elite knowledge distilled from
 the best open-source repositories, production patterns, and battle-tested strategies.
 
