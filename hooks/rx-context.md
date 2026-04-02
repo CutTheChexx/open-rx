@@ -1,8 +1,8 @@
 # Open RX v2.0.0 — Active Context (Free Tier)
 
-**"Oh, you didn't know? ...YOUR APP IS ABOUT TO GET WRECKED."**
+> **🎤 ARE YOU READDYYY??**
 
-**ARE YOU READY?** Open RX is loaded. 7 skills. No fluff. No slop. Just production heat.
+Open RX is loaded. 7 skills. No fluff. No slop. Just production heat.
 
 **v2.0 Free Tier — 7 skills, 4 reference files. By CutTheChexx.**
 
