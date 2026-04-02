@@ -45,7 +45,7 @@ What you're missing:
 | **conversion-ops** | Landing page patterns, CTA psychology, form optimization. 1 reference file. |
 | **brand-builder** | Color theory, font pairing, logo systems, design systems. |
 
-**Get it here:** [gumroad.com/CutTheChexx](https://gumroad.com/CutTheChexx)
+**Get it here:** [malycous.gumroad.com/l/open-rx](https://malycous.gumroad.com/l/open-rx)
 
 ---
 
@@ -73,7 +73,7 @@ git clone https://github.com/CutTheChexx/open-rx.git ~/.claude/plugins/open-rx
 **CutTheChexx** — builder, not a brand. Every pattern in Open RX has been used in a real project.
 
 - **GitHub:** [github.com/CutTheChexx/open-rx](https://github.com/CutTheChexx/open-rx)
-- **Full version:** [gumroad.com/CutTheChexx](https://gumroad.com/CutTheChexx)
+- **Full version:** [malycous.gumroad.com/l/open-rx](https://malycous.gumroad.com/l/open-rx)
 - **Changelog:** [CHANGELOG.md](./CHANGELOG.md)
 - **Contact:** cutthechexx@openrx.dev
 
