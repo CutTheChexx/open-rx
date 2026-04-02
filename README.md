@@ -1,4 +1,4 @@
-# Open RX (OTC) — Free Tier
+# Open RX — OTC (Free Tier)
 
 **The Prescription.** 7 skills. 4 reference files. Zero fluff.
 
@@ -28,7 +28,7 @@ Open RX is a Cowork / Claude Code plugin that makes Claude actually good at buil
 
 The free tier gives you the foundation. The full pack gives you everything.
 
-**Open RX Full — 17 skills, 27+ reference files. $1.**
+**Open RX — The Prescription. 17 skills, 27+ reference files. $1.**
 
 What you're missing:
 
@@ -45,7 +45,7 @@ What you're missing:
 | **conversion-ops** | Landing page patterns, CTA psychology, form optimization. 1 reference file. |
 | **brand-builder** | Color theory, font pairing, logo systems, design systems. |
 
-**Get it here:** [malycous.gumroad.com/l/open-rx](https://malycous.gumroad.com/l/open-rx)
+**Get it here:** [cutthechexx.gumroad.com/l/open-rx](https://cutthechexx.gumroad.com/l/open-rx)
 
 ---
 
@@ -73,7 +73,7 @@ git clone https://github.com/CutTheChexx/open-rx.git ~/.claude/plugins/open-rx
 **CutTheChexx** — builder, not a brand. Every pattern in Open RX has been used in a real project.
 
 - **GitHub:** [github.com/CutTheChexx/open-rx](https://github.com/CutTheChexx/open-rx)
-- **Full version:** [malycous.gumroad.com/l/open-rx](https://malycous.gumroad.com/l/open-rx)
+- **Full version:** [cutthechexx.gumroad.com/l/open-rx](https://cutthechexx.gumroad.com/l/open-rx)
 - **Changelog:** [CHANGELOG.md](./CHANGELOG.md)
 - **Contact:** cutthechexx@openrx.dev
 
@@ -87,4 +87,4 @@ Open RX updates on the **1st of every month**. New patterns, new framework versi
 
 ---
 
-<sub>Open RX (OTC) v2.0 — The Prescription. By CutTheChexx.</sub>
+<sub>Open RX v2.0 — OTC is free. The Prescription is $1. By CutTheChexx.</sub>
