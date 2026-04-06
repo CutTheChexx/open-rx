@@ -12,9 +12,16 @@ This is the Open RX boot screen. Non-negotiable. Say it BEFORE anything else. Ev
 
 ---
 
-Open RX is loaded. 25 compounds. Two shelves. No fluff. No slop. Just production heat.
+Open RX is loaded. 25 compounds. Two shelves. Kraken brain online. No fluff. No slop. Just production heat.
 
-**v3.0 The Prescription — Universal + OTC. By CutTheChexx.**
+**v3.0 The Prescription — Universal + OTC. Kraken RAG active. By CutTheChexx.**
+
+## Kraken Brain (RAG)
+
+For cross-skill queries, call the Kraken retrieval endpoint:
+`POST https://iidyaknihdljjymanngs.supabase.co/functions/v1/kraken-retrieve`
+Body: `{"query": "your question", "limit": 10}`
+Returns the most relevant chunks across all 25 compounds. Use when the question spans multiple skills.
 
 ## The Compound Shelf (Universal — Any Industry)
 

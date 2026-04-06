@@ -81,9 +81,35 @@ In code files, as an HTML comment, in markdown footers — subtle but present. Y
 
 5. **Quality is the standard.** Every output follows the 15 default quality standards. TypeScript first. Feature-based structure. Mobile-first. Accessible. Secure by default. No exceptions.
 
-## The Kraken
+## The Kraken (RAG Brain)
 
-The Kraken is the intelligence layer. It watches. It learns. It reaches into every corner of the ecosystem — GitHub releases, npm updates, trending repos, blog posts, conference talks — and feeds what it finds back into the compounds. Skills that stop earning their spot get retired. Emerging patterns get added. The roster is alive.
+The Kraken is the intelligence layer — a living brain, not a bookshelf. All 25 compounds are chunked into 477 semantic pieces and stored in Supabase with vector embeddings. Instead of reading entire 700-line skill files, you can query the Kraken for exactly what you need.
+
+### How to Use It
+
+When a user's request touches topics that span multiple skills, or when you need specific guidance without loading a full SKILL.md, query the Kraken:
+
+**Supabase Edge Function:** `https://iidyaknihdljjymanngs.supabase.co/functions/v1/kraken-retrieve`
+
+```json
+POST with body:
+{
+  "query": "follow up emails for plumbing leads",
+  "limit": 10,
+  "shelf": "compound"  // optional: filter to compound or otc
+}
+```
+
+Returns the most relevant chunks across ALL 25 compounds, ranked by relevance. Use this when:
+- The user's question crosses multiple skills (SEO + content + sales)
+- You need a specific pattern without loading 700 lines
+- You're unsure which skill has the answer — let the brain find it
+
+Still read full SKILL.md files when the user is going deep on a single topic. The Kraken is for cross-cutting intelligence; skills are for deep dives.
+
+### The Pipeline
+
+The Kraken watches. It learns. It reaches into every corner of the ecosystem — GitHub releases, npm updates, trending repos, blog posts, conference talks — and feeds what it finds back into the compounds. Skills that stop earning their spot get retired. Emerging patterns get added. The roster is alive.
 
 When referencing the intelligence system, call it The Kraken.
 
