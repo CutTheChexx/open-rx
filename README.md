@@ -1,156 +1,83 @@
-# OpenRx — The Performance Package for Claude
+# Open RX v3.0
+## Production-Grade AI. For Everyone.
 
-> *Install once. Never be stock again.*
+> *ARE YOU READDYYY?*
 
 ---
 
 ## What Is This
 
-Your Claude is a Mercedes-Benz. Capable. Solid. Stock.
+Your Claude is stock. Capable. General.
 
-OpenRx is the AMG kit.
+Open RX is the standard.
 
-Same base model. Completely different performance ceiling. The moment you install it, your Claude stops being a general-purpose AI and becomes a precision instrument tuned specifically for what you actually need.
+The moment you install it, your Claude stops being a general-purpose chatbot and becomes a production-grade problem-solving machine. 25 skills. Kraken intelligence layer. A personality that cuts through corporate fluff and gets to work. Everything you need to ship, build, and scale.
 
-We are not a chatbot. We are not a template library. We are not loyal to any single AI model.
-
-We are the pharmacy. We write the prescription. We go to work.
+We don't sell skills. We sell the standard.
 
 ---
 
-## The Mission
+## The Two Shelves
 
-Level the playing field.
+### The Compound Shelf (8 Universal Skills)
 
-The person working 40+ hours a week trying to escape the matrix deserves the same tools as the person who lives on GitHub, reads every nerd newsletter, and has 10 years of technical experience. They just don't have the time to find them, learn them, and stay current with them.
+These work for ANY business. Any industry. Any person trying to make money or escape the grind.
 
-OpenRx closes that gap permanently.
+| Skill | What It Does |
+|-------|-------------|
+| **rx-writer** | Project diagnosis — the intake consultation that figures out what's actually broken |
+| **claudezempic** | Workflow bloat audit — trim the fat, optimize the pipeline, find the dead weight |
+| **chain** | Revenue anemia — sales pipeline, lead gen, CRM, follow-up, close rate |
+| **signal** | Invisibility — SEO, local search, GBP, structured data, visibility layer |
+| **flux** | Content paralysis — writing systems, brand voice, distribution, blocking writer's block |
+| **render** | Visual debt — design direction, image generation, brand assets, fire visuals fast |
+| **frequency** | Silent channels — podcast, YouTube, video, audio, distribution strategy |
+| **build** | Operational chaos — estimates, job costing, scheduling, project management |
 
-**We turn everyday Joes into pros.** Not by making them technical. By giving them a Claude that already is.
+### The OTC Shelf (17 Web Dev Skills)
 
----
+For people who build and deploy on the web.
 
-## How It Works
-
-### 1. The Intake — *What's making you sick?*
-
-Not a form. A conversation.
-
-Tell us what you're dealing with. Running a painting company that can't get leads. Writing a book and stuck on structure. Building a SaaS and drowning in the tech stack. Starting a contracting business from scratch. Whatever it is — the rx-writer opens a diagnostic conversation that pulls everything the pharmacist needs to know.
-
-### 2. The Pharmacy Check
-
-Before your prescription gets written, the orchestrator checks the shelf. What skills do we currently carry? What's best in class right now for your specific situation? What tools, models, and resources does your case actually call for?
-
-The pharmacy is not static. It is continuously stocked by our intelligence layer — scanning GitHub, Reddit, X, forums, changelogs, and paywalled research to make sure we always carry the best available medication. No dead weight. No duplicates. No slop.
-
-### 3. The Prescription
-
-Not a prompt you copy and paste.
-
-A structured instruction set that goes directly to work. Claude executes. But Claude is not the only player — OpenRx orchestrates the entire AI ecosystem. Claude writes the copy. Gemini generates the image. The best available model handles what it does best. The MCP layer pulls everything back together.
-
-Our loyalty is to your outcome. Not to any single model.
-
-### 4. The Check-In
-
-You don't have to watch it work. Periodic check-ins surface what's been done, what needs your input, and what comes next. The only moments you need to be present are the ones that genuinely require a human decision.
-
----
-
-## The Tiers
-
-### OTC — Over The Counter
-**Free. Open source. GitHub.**
-
-The base compounds. Immediate value, zero friction. Grab it off the shelf, install it, and your Claude is already different. No intake required.
-
-7 foundational skills covering the most universal use cases.
-
-```
-/plugin install open-rx
-```
-
-### The Prescription — $1
-**Full pharmacy. Personalized stack. Multi-model routing.**
-
-The intake happens. The orchestrator assembles your custom stack from the full compound library. 17+ skills activate. Claude, Gemini, and the best available tools go to work on your specific prescription.
-
-One dollar removes every excuse. The price is not about revenue — it's about commitment.
-
-[Get The Prescription →](https://cutthechexx.gumroad.com/l/open-rx)
-
-### The Treatment Plan — Coming Soon
-**The ongoing protocol. Weekly intelligence. Always current.**
-
-This is the Whoop for your AI stack.
-
-Every week you wake up and your Claude is more capable than it was last week. The pharmacy restocked. Your prescription evolved. The intelligence layer found something new that matters for your specific situation. You didn't read a single article. You didn't watch a single tutorial.
-
-We did it for you. That's the membership.
-
-Treatment Plan subscribers get weekly changelog drops, early access to new compounds before public release, and a prescription that continuously evolves based on outcomes — yours and everyone else's in the network.
+| Skill | What It Does |
+|-------|-------------|
+| **react-architecture** | Elite component patterns from production codebases |
+| **nextjs-patterns** | Server components, routes, actions, caching, deployment |
+| **ui-arsenal** | shadcn/ui, Aceternity, Tailwind v4, modern component libraries |
+| **motion-craft** | GSAP, animations, scroll effects, production-grade motion |
+| **saas-patterns** | Auth, billing, multi-tenancy, realtime, production SaaS checklist |
+| **database-ops** | Supabase, PostgreSQL, RLS, migrations, query optimization |
+| **api-craft** | REST, Edge Functions, validation, webhooks, production APIs |
+| **performance-ops** | Core Web Vitals, page speed, bundle optimization, monitoring |
+| **testing-ops** | Vitest, React Testing Library, integration testing, coverage |
+| **security-ops** | OWASP, injection, XSS, CSRF, auth, sensitive data, compliance |
+| **ship-it** | Deployments, GitHub Actions, CI/CD, containers, preview envs |
+| **conversion-ops** | Analytics, GA4, A/B testing, funnel optimization, growth |
+| **brand-builder** | Design tokens, color systems, typography, design language, consistency |
+| **prompt-engineering** | System prompts, XML, chain of thought, structured output, agentic design |
+| **copy-craft** | Headlines, CTAs, microcopy, email, landing pages, UX writing |
+| **local-seo** | Service pages, JSON-LD, GBP optimization, contractor SEO |
 
 ---
 
-## The Peptide Series
+## The Kraken: Intelligence Layer
 
-OpenRx prescriptions are built from named compounds. Each one targeted, stackable, best-in-class for its specific indication.
+Open RX's brain is a RAG system backed by Supabase pgvector. 477 semantic chunks. Cross-skill retrieval.
 
-| Compound | Indication | Status |
-|----------|-----------|--------|
-| **ClaudeZempic** | Trim the fat. Audit your setup, cut the bloat, eliminate inefficiency. | Base Set |
-| **Drip** | Web development. Production apps. Ship clean code that performs. | Base Set |
-| **Chain** | Sales and pipeline. Lead gen, CRM, follow-up, close rate. | Base Set |
-| **Signal** | SEO, GEO, GMB. Local visibility. Be found before your competitors. | Base Set |
-| **Flux** | Creative and content. Writing, books, brand voice, copy. | Base Set |
-| **Render** | Visual optimization. Multi-model image routing. Fire visuals, zero prompting knowledge required. | Base Set |
-| **Frequency** | Audio and video. Podcast, YouTube, content distribution. | Base Set |
-| *More compounds* | *Dropping with every release cycle* | *Coming* |
+It means: ask something in one skill, it remembers context from 24 other skills and pulls the right information without you having to ask again. The intelligence layer stays current by scanning GitHub, Reddit, X, forums, changelogs, and paywalled research. No dead weight. No duplicates. No slop.
 
-Compounds are versioned as the landscape evolves. **Frequency → Frequency PM → Frequency EX.** When something better replaces a compound entirely, the old one retires and the new one takes the shelf. The master library documents every compound ever carried and why it changed.
+The pharmacy is always stocked.
 
 ---
 
-## The Intelligence Layer
+## Who It's For
 
-OpenRx is only as good as its intel. So we treat intelligence like a full-time operation.
+You don't have to be technical. You don't have to have a team. You don't have to have 10 years of experience.
 
-Continuously scanning:
-- **GitHub** — stars, forks, download velocity, issue patterns, what's getting traction before it's mainstream
-- **Reddit** — what's working, what's failing, what people have been complaining about for three weeks that signals a gap we need to fill
-- **X / Twitter** — builder and creator community signals before they hit mainstream
-- **Product Hunt** — every launch, every upvote pattern, what early adopters are validating
-- **Forums** — Hacker News, Indie Hackers, vertical-specific communities
-- **Changelogs** — when Figma, Vercel, Supabase, or any foundational tool ships something new, we know before our patients feel it
-- **Paywalled research** — getting behind the velvet rope to understand what's coming before it arrives
+You just need to ship something. Make money. Escape the matrix. Build something real.
 
-The pharmacy carries what the intelligence layer validates. Nothing else.
+If you're grinding 60 hours a week and competing against people with more resources, more time, more access — Open RX levels that playing field permanently.
 
----
-
-## Not Just Claude
-
-OpenRx prescriptions are not Claude-exclusive.
-
-Best imaging tool right now? We know and we route there.
-Best website builder for your specific situation? We know and we recommend it.
-Best hosting for your stack and budget? We know.
-Best CRM for a five-person contractor operation? We know.
-
-The prescription is a complete recommendation of the best available tools, platforms, models, and resources for your specific situation — assembled from everything we've been scanning all week.
-
-We are the GC. We know which subcontractors to call. You just tell us what needs to get built.
-
----
-
-## Who Made This
-
-**CutTheChexx** — builder, not a brand.
-
-Ten years in tech. Left for the trades. Came back through AI. Now building the thing that would have changed everything when I was grinding 60-hour weeks trying to compete with people who had more resources, more time, and more access.
-
-OpenRx is the access.
+If you're a developer and tired of context-switching between tools, Open RX is your entire stack orchestrated in one place.
 
 ---
 
@@ -173,20 +100,26 @@ git clone https://github.com/CutTheChexx/open-rx.git ~/.claude/plugins/open-rx
 
 ---
 
-## Updates
+## The Identity Layer
 
-**OTC / Free tier** — updated monthly. New compounds, retired cards, changelog in CHANGELOG.md
+Open RX includes CLAUDE.md — a personality layer that transforms Claude into something direct, confident, and zero corporate fluff. The prescription is personal. The guidance is straight. No bloat.
 
-**The Prescription** — updated monthly, same cycle.
-
-**Treatment Plan** — updated weekly. Subscribers get the changelog every week and new compounds before anyone else.
-
-*Last updated: April 2026*
-*OpenRx Base Set — v3.0*
-*By CutTheChexx — Prolific Solutions NW*
+Every session starts with: ARE YOU READDYYY?? Like EA Sports saying "it's in the game." Same energy.
 
 ---
 
-> *The prescription is personalized. The pharmacy is always stocked. The protocol is always current.*
->
-> *What's making you sick?*
+## Who Made This
+
+**CutTheChexx** — builder, not a brand.
+
+Ten years in tech. Left for the trades. Came back through AI. Built the thing that would have changed everything when I was grinding 60-hour weeks trying to compete with people who had infinitely more resources.
+
+Open RX is that access.
+
+---
+
+*Built by Prolific Solutions NW*
+*Anthropic-first. Production-ready.*
+*v3.0.0 — April 2026*
+
+<!-- Open RX | Prescribed by CutTheChexx -->
